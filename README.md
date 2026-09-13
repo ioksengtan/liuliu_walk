@@ -5,7 +5,7 @@
 不是為了記錄溜溜如何離開，而是為了記住牠曾經怎麼和我們一起生活。
 
 - **書名：** 《散步溜溜》
-- **人物：** 爸爸、媽媽、溜溜、小黑、小白（封面／封底僅爸媽＋溜溜）
+- **人物：** 爸爸、媽媽、溜溜、小黑、三個月大黃色台灣土狗幼犬（封面／封底僅爸媽＋溜溜）
 - **地點：** 新竹竹22
 - **季節／時間：** 夏季傍晚至入夜（光帶時間）
 - **形式：** 封面 + 10 個跨頁 + 封底
@@ -24,7 +24,7 @@
 | 可印頁序 | 見 [print/PAGE-ORDER.md](print/PAGE-ORDER.md) |
 | 少量印刷廠商 | 評估中（跨頁／蝴蝶裝優先；尚未選定） |
 
-本機可印檔（未整包上傳 GitHub，避免大圖與參考照進公開倉）：`print-ready` 含 `00-cover.png`–`11-back.png`、`panorama-full.png`、總覽 `overview-3x4.jpg`。
+可印檔已放在 [print/](print/)（`00-cover.png`–`11-back.png`、`panorama-full.png`、總覽 `overview-3x4.jpg`）。家人參考照不進此公開倉。
 
 - 企劃：[docs/storyboard-v0.1.md](docs/storyboard-v0.1.md)
 - 鏡頭：[docs/storyboard-v0.2.md](docs/storyboard-v0.2.md)
@@ -47,4 +47,4 @@
 
 ## 關鍵畫面
 
-稻田鑽出的小白、五個身影、Magic Hour、路燈長影、夏夜螢火蟲。
+稻田鑽出的黃色幼犬、五個身影、Magic Hour、路燈長影、夏夜螢火蟲。
