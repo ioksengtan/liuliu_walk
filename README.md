@@ -13,6 +13,16 @@
 - **結尾：** 各自回家／「明天見。」
 - **可印／打樣目標：** 約 **2026-10-16**（原 2026-09-16；2026-09-15 延後一個月）
 
+## 通勤試讀
+
+手機可翻的靜態試讀（封面 → 十個跨頁 → 封底），沿用 [print/](print/) 已鎖定的圖，不另存一份。
+
+Pages 開啟後：<https://ioksengtan.github.io/liuliu_walk/>
+
+本機直接打開 `index.html`，或執行 `python3 -m http.server` 後用瀏覽器預覽。
+
+若網站尚未上線：到倉庫 **Settings → Pages**，Source 選 **Deploy from a branch**，Branch 選 **`main`**、資料夾選 **`/ (root)`**，儲存後等建置完成即可。
+
 ## 現況（2026-09-15 時程更新）
 
 | 階段 | 狀態 |
